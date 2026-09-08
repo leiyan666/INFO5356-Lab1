@@ -1,0 +1,6 @@
+reachy_mini_env/
+*.egg-info/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
